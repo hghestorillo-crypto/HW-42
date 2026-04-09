@@ -124,7 +124,7 @@
 }
 @keyframes moveSquare {
     0% {
-        transform: translate(0,0);пш
+        transform: translate(0,0);
         background-color: rgb(49, 49, 189);
     }
     25%{
